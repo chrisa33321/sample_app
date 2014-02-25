@@ -1,0 +1,50 @@
+print "food"
+print "foo\n"
+print "foo"
+"foobar".empty?
+"".empty?
+0..9
+0..0.to_a
+0..9.to_a
+0..9.to_a
+0..9.to_a
+(0..9).to_a
+(1..5).each do 
+exit
+(1..5).each do |a|
+puts 3*a-1
+puts "abc123---"
+end
+(1..5).map
+%w[a b c]
+%w[a b c].map {|char| char.upcase}
+%w[a b c].map {|char| char+1}
+%w[a b c].map {|char| char+1.to_s}
+('a'..'z').to_a
+('a'..'z').to_a.shuffle
+('a'..'z').to_a.shuffle[0..2]
+('a'..'z').to_a.shuffle[0..2].job
+('a'..'z').to_a.shuffle[0..2].join
+('a'..'z').to_a.shuffle[0..2].join
+('a'..'z').to_a.shuffle[0..2].join
+exit
+require './example_user'
+User.new
+example.name
+example=Users.new
+example=User.new
+example.name
+example.name = "Example User"
+example.email = "user@example.com"
+example.formatted_email
+rails console
+def string_shuffle(s)
+s.split('').shuffle.join
+end
+string_shuffle("foobar")
+string_shuffle("foobar")
+string_shuffle("foobar")
+string_shuffle("foobar")
+string_shuffle("foobar")
+git checkout -b filling-in-layout
+exit
